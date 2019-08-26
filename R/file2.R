@@ -3,5 +3,7 @@
 # here is some new code i want to add
 x <- y * 10
 
-# changes on master, don't save, then create new feature branch
-x <- x / 5
+# making a bunch of changes on master
+y <- 100
+
+z <- y + 10
