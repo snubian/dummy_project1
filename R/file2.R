@@ -7,3 +7,11 @@ x <- y * 10
 y <- 100
 
 z <- y + 10
+
+# here are a nuch more changes
+
+myvar <- i + 10
+
+for (i in 1:5) {
+  y <- i * 2
+}
