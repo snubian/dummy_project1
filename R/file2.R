@@ -7,9 +7,3 @@ x <- y * 10
 y <- 100
 
 z <- y + 10
-
-# here are some different changes to master, possible conflicy with f4?
-
-for (i in 1:10) {
-  y <- i - 6
-}
